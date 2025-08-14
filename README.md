@@ -1,29 +1,26 @@
-# Alireza Kordi
+<!-- Profile README for Sadra -->
+<h1 align="center">Hi, I'm Sadra 👋</h1>
+<p align="center">Skilled Go developer using a wide variety of technologies and turning creative ideas into code.</p>
 
-**Java backend developer** focused on authentication, multi‑tenant APIs, and secure microservices.
+## Talking about Personal Stuff 😃
+- 👨🏽‍💻 **Currently Engaged:** Building and optimizing Go-based microservices.
+- 🌱 **Focused Learning:** Expanding expertise in Gin and advanced API design patterns.
+- 💬 **Open to Collaboration:** Happy to answer questions or share knowledge.
+- 📫 **Contact Me:** sadrakhodadadzade@gmail.com
 
-- Designed and shipped REST APIs for healthcare & insurance platforms.
-- Implemented **Keycloak SPIs** (SMS/Email OTP), JWT auth, rate‑limiting, and audit logging.
-- Wrote OpenAPI 3 specs and moved teams to **contract‑first** development.
-- Containerized services with **Docker** and ran repeatable dev/test envs on Kubernetes.
+## ABOUT ME
+I am a dedicated Go developer who enjoys designing and building efficient software solutions. Over time, I've used Go’s concurrency model to create scalable applications and microservices. In addition to Go, I use **Python** for scripting, **Linux** for my development environment, and **Docker** for containerization—ensuring consistent deployment and streamlined workflows.
 
-## Tech
-`Java` · `Spring Boot` · `Hibernate/JPA` · `PostgreSQL` · `REST` · `OpenAPI` · `OAuth2 / JWT`  
-`Keycloak` · `Docker` · `Kubernetes` · `Git` · `Maven` · `JUnit` · `REST Assured`
+Beyond the core language, I’m proficient with frameworks and tools like **GORM** and **Gin** for smooth database interactions and web service creation, and **gRPC** for high-performance, reliable communication between services. I value strong problem-solving skills and strive to optimize each project for speed, maintainability, and clarity. My experience with **PostgreSQL** helps me design robust and scalable data architectures.
 
-## Featured projects
-- **Keycloak OTP Authenticators (SPI)** — Pluggable SMS/Email OTP, themes, rate‑limit & audit. *Spring Boot, Keycloak* · [Repo](#)
-- **Insurance Gateway** — Multi‑tenant policy & claims API with JWT isolation. *Spring Boot, PostgreSQL* · [Repo](#)
-- **Wellness Microservice (Feel)** — Check‑ins + real‑time feed (GetStream). *Spring Boot* · [Repo](#)
+I'm a firm believer in continuous learning and actively explore new technologies like **Flask** for quick API prototypes and **REST APIs** for seamless integration across client platforms. I’m dedicated to clean, collaborative code. Whether it’s developing cloud-based solutions or tackling complex back-end logic, I enjoy any challenge that helps me grow as a developer and contributes to building impactful software.
 
-> Tip: Replace `#` with your repository links and pin these repos on your profile.
+## Abilities 🌐
+`Go` · `Python` · `Linux` · `Docker` · `PostgreSQL` · `GORM` · `Gin` · `gRPC` · `Problem Solving` · `Git` · `Flask` · `REST API` · `JavaScript` · `HTML` · `CSS`
 
-## About
-B.Sc. Software Engineering — Islamic Azad University (E‑Branch), 2022—present.  
-Based in Tehran • Open to remote opportunities.
+## Learning 📚
+`Kubernetes`
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/alireza-kordi
-- Email: alirezaakr999 [at] gmail [dot] com
+---
 
-<!-- Keep this file short. Update the Featured projects section as you ship new work. -->
+> Tip: Create a public repository named **exactly your GitHub username** (e.g., `sadra`) and put this file as `README.md`. That repo becomes your Profile README and displays on your GitHub profile page.
