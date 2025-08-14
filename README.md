@@ -1,64 +1,29 @@
-<!-- Profile README for alirezakordi13844 -->
-<h1 align="center">Hi, I'm Alireza Kordi 👋</h1>
-<p align="center">
-  Mid‑Level Java Backend Developer • Spring Boot • Keycloak • PostgreSQL • Docker
-</p>
+# Alireza Kordi
 
-<p align="center">
-  <a href="https://github.com/alirezakordi13844?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/alirezakordi13844?label=Follow&style=social">
-  </a>
-  <a href="mailto:alirezaakr999@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-alirezaakr999%40gmail.com-informational">
-  </a>
-  <a href="https://www.linkedin.com/in/alireza-kordi">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-alireza--kordi-blue">
-  </a>
-</p>
+**Java backend developer** focused on authentication, multi‑tenant APIs, and secure microservices.
 
-### About me
-- 🔧 Java backend developer focused on secure, scalable APIs and auth flows.
-- 🧩 Specialized in **Keycloak SPI** (SMS/Email OTP), **JWT**, and multi‑tenant systems.
-- 🩺 Built healthcare & insurance microservices; integrated IoT data streams.
-- 🧰 Containerization with **Docker** and orchestration with **Kubernetes**; CI/CD with **GitHub Actions**.
-- 🎓 B.Sc. Software Engineering, *Islamic Azad University — E‑Branch* (2022—present).
-- 📍 Based in Tehran • Open to remote opportunities.
+- Designed and shipped REST APIs for healthcare & insurance platforms.
+- Implemented **Keycloak SPIs** (SMS/Email OTP), JWT auth, rate‑limiting, and audit logging.
+- Wrote OpenAPI 3 specs and moved teams to **contract‑first** development.
+- Containerized services with **Docker** and ran repeatable dev/test envs on Kubernetes.
 
-### Tech I use
-`Java` · `Spring Boot` · `Hibernate/JPA` · `PostgreSQL` · `REST` · `OpenAPI` · `OAuth/JWT`  
-`Keycloak` · `Docker` · `Kubernetes` · `Git` · `Maven` · `Postman` · `GetStream` · `JUnit` · `REST Assured`
+## Tech
+`Java` · `Spring Boot` · `Hibernate/JPA` · `PostgreSQL` · `REST` · `OpenAPI` · `OAuth2 / JWT`  
+`Keycloak` · `Docker` · `Kubernetes` · `Git` · `Maven` · `JUnit` · `REST Assured`
 
-### Highlights
-- Designed & delivered **15+ RESTful APIs** for a healthcare platform; integrated patient‑generated IoT data; ensured **HIPAA‑grade** security.
-- Implemented **SMS‑OTP** and **Email‑OTP** authenticators as **Keycloak SPIs**; added themes, rate‑limiting, and audit logging.
-- Led an **International Insurance Gateway** (policy lookup, claim submission) with **JWT‑based tenant isolation**.
-- Built the **Feel** wellness microservice (mental‑health check‑ins) with real‑time updates via **GetStream**.
-- Wrote OpenAPI 3 specs and introduced **contract‑first** development.
-- Containerized services with **Docker** and orchestrated dev/test envs on **Kubernetes (kind)**.
+## Featured projects
+- **Keycloak OTP Authenticators (SPI)** — Pluggable SMS/Email OTP, themes, rate‑limit & audit. *Spring Boot, Keycloak* · [Repo](#)
+- **Insurance Gateway** — Multi‑tenant policy & claims API with JWT isolation. *Spring Boot, PostgreSQL* · [Repo](#)
+- **Wellness Microservice (Feel)** — Check‑ins + real‑time feed (GetStream). *Spring Boot* · [Repo](#)
 
-### Experience
-- **Mid‑Level Developer — TechNova Labs** (Remote UK↔Iran, 2022–2023)  
-  Spring Boot · PostgreSQL · Keycloak · Docker · Kubernetes · GitHub Actions
-- **Junior Developer — Aroosha** (2020–2022)  
-  Java micro‑modules for industrial clients (telemetry ingestion, insurance quotation, task dispatch); testing with JUnit & REST Assured.
+> Tip: Replace `#` with your repository links and pin these repos on your profile.
 
-### Education
-- **Software Engineering — Islamic Azad University (E‑Branch)** • 2022—present
+## About
+B.Sc. Software Engineering — Islamic Azad University (E‑Branch), 2022—present.  
+Based in Tehran • Open to remote opportunities.
 
-### Get in touch
-- ✉️ alirezaakr999@gmail.com
-- 🔗 <a href="https://www.linkedin.com/in/alireza-kordi">linkedin.com/in/alireza-kordi</a>
+## Contact
+- LinkedIn: https://www.linkedin.com/in/alireza-kordi
+- Email: alirezaakr999 [at] gmail [dot] com
 
----
-
-### GitHub stats (optional)
-> These cards may take a moment to load.
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezakordi13844&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezakordi13844&layout=compact)
-
-<!--
-Tips:
-- Keep this file concise; link to repositories for details.
-- Update highlights as you finish new projects or certifications.
--->
+<!-- Keep this file short. Update the Featured projects section as you ship new work. -->
