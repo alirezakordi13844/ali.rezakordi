@@ -51,14 +51,3 @@
 
 ---
 
-### GitHub stats (optional)
-> These cards may take a moment to load.
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezakordi13844&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezakordi13844&layout=compact)
-
-<!--
-Tips:
-- Keep this file concise; link to repositories for details.
-- Update highlights as you finish new projects or certifications.
--->
